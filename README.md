@@ -1,2 +1,2 @@
 # micro_mouse
-This is ourcode for the Advisor Micromize competition. 
+This is our code for the Advisor Micromize competition. 
